@@ -1,0 +1,18 @@
+p::first-line{
+    color: aqua;
+    background-color: rebeccapurple;
+
+}
+h1::first-letter{
+    color: yellowgreen;
+    background-color: black;
+
+}
+::marker{
+    color: violet;
+    background-color: rgb(39, 18, 199);
+}
+::selection{
+    color: tomato;
+    background-color: yellow;
+}

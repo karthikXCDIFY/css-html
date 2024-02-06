@@ -1,0 +1,62 @@
+div{
+    border: 5px solid blue;
+    width:  1500px;
+    height: 2000px;
+}
+
+
+.div1{
+    position: static;
+    top: 50px;
+    height: 150px;
+    width: 200px;
+    background-color: aqua;
+    border: 10px solid gainsboro;
+    left: 300px;
+   
+    
+}
+.div2{
+    position: relative;
+    top: 50px;
+    height: 150px;
+    width: 200px;
+    background-color: aqua;
+    border: 10px solid gainsboro;
+    left: 300px;
+   
+    
+}
+.div3{
+    position:fixed;
+    top: 50px;
+    height: 150px;
+    width: 200px;
+    background-color: aqua;
+    border: 10px solid gainsboro;
+    left: 800px;
+   
+    
+}
+.div4{
+    position: absolute;
+    top: 50px;
+    height: 150px;
+    width: 200px;
+    background-color: aqua;
+    border: 10px solid gainsboro;
+    left: 300px;
+   
+    
+}
+.div5{
+    position: sticky;
+    top: 50px;
+    height: 150px;
+    width: 200px;
+    background-color: aqua;
+    border: 10px solid gainsboro;
+    left: 600px;
+   
+    
+}

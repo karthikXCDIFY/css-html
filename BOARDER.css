@@ -1,0 +1,30 @@
+p{
+    border-style: dotted;
+    border-width: 10px;
+
+}
+h1{
+    border-style: solid;
+}
+h2{
+    border-style: groove;
+}
+h3{
+    border-style: inset;
+}
+h4{
+    border-style:outset ;
+}
+h5{
+    border-style:ridge ;
+}
+#2{
+    border:8px dotted red;
+}
+ul{
+    border:8px solid rgb(47, 232, 14);
+    border-radius: 10px; 
+}
+#1{
+    color: blanchedalmond;
+}

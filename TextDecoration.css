@@ -1,0 +1,7 @@
+body{
+    border: saddlebrown solid;
+    text-decoration-color: aquamarine;
+   text-decoration-line: underline;
+   text-decoration-line: overline;
+   text-decoration-line: line-through;/*last one geets executs so this line only executes*/
+}

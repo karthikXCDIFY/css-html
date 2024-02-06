@@ -1,0 +1,27 @@
+div{
+    border: 5px solid blue;
+    width:  1000px;
+    height: 300px;
+}
+
+
+
+
+.div1{
+    position: static;
+    top: 50px;
+    height: 150px;
+    width: 200px;
+    background-color: aqua;
+    border: 10px solid gainsboro;   
+}
+.div2{
+   
+    position: relative;
+    top: 50px;
+    height: 150px;
+    width: 200px;
+    background-color: aqua;
+    border: 10px solid gainsboro;
+    left: 300px;
+}

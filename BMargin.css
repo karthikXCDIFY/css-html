@@ -1,0 +1,10 @@
+body
+{
+    border: 3px solid greenyellow;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-left: 40px;
+    margin: 33px 19px 20px 32px;            /*top right bottom left*/
+    margin: auto;
+    margin: 33px;                       /*top r b l*/
+}
